@@ -1,4 +1,4 @@
-# 🌍 Global CO Emission Forecasting (Unpublished Paper)
+# 🌍 Global CO Emission Forecasting
 
 This repository contains a research paper titled:
 
