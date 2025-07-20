@@ -7,8 +7,6 @@ This repository contains a research paper titled:
 
 📌 This study has not been officially published and was developed for academic purposes.
 
----
-
 ## 📄 Paper Summary
 
 The paper explores time series modeling techniques to predict global carbon monoxide (CO) emissions from fossil fuel combustion and industrial processes.
@@ -17,8 +15,6 @@ The paper explores time series modeling techniques to predict global carbon mono
 - **Method**: Time Series Analysis (e.g., ARIMA)
 - **Data**: Annual CO emission data (source unspecified)
 - **Goal**: Forecast future trends and identify emission patterns
-
----
 
 ## 📝 Disclaimer
 
